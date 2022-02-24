@@ -1,9 +1,9 @@
 /* global */
 * {font-family: Arial, sans-serif; font-size: 14px; font-weight:normal; font-style:normal; color:#ffffff; padding:0; margin:0; box-sizing: border-box;}
 body {
-	background:#2D2828; margin:200px;
+	background:#2D2828; 
 }
-p {padding: 8px 0;}
+p {padding: 0px 0;}
 a { text-decoration:none; color:#ff9600; transition: color 0.3s; }
 a:hover {color:#ffffff;}
 ol { margin:0px 28px; padding:0;}
