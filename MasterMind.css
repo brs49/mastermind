@@ -3,7 +3,7 @@
 body {
 	background:#2D2828; 
 }
-p {padding: 0px 0;}
+p {padding: 10px 0;}
 a { text-decoration:none; color:#ff9600; transition: color 0.3s; }
 a:hover {color:#ffffff;}
 ol { margin:0px 28px; padding:0;}
