@@ -34,7 +34,7 @@ h1 {font-size:20px; color:#ffffff;}
 
 /* game board */
 table {border-collapse:collapse;}
-table td {border:solid 1px #888; padding:4px; text-align:center;}
+table td {border:solid 1px #888; padding:14px; text-align:center;}
 table tr.selected td {background:#2D2828;}
 table tr.selected td.selected {background:#dce6ff;}
 table tr td.valid {display:none;}
