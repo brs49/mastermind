@@ -1,3 +1,2 @@
 # mastermind
-https://brs49.github.io/mastermind/ site web :
-https://benasvusa.wordpress.com/
+https://brs49.github.io/mastermind/
